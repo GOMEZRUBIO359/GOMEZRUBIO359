@@ -1,0 +1,92 @@
+## Hola 👋👋  mi nombre es Andres Gomez 
+
+
+<h3> Algunos datos sobre mi: </h3>
+
+- 🔭 Actualmente, me encuentró desarrollado proyectos de uso libre para fundaciones de animales.
+- 🌱 Tengo poco más de 3 años como desarrollador, mi lenguaje principal es PHP 
+- 👯 Me gustaría en algún momento contribuir en algún desarrollo que ayude a los animales.
+
+##
+
+### 📠 Puedes ponerte en contacto conmigo de las siguientes formas:
+
+<a target="_blank" href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="mailto:gomezrubio359@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+&emsp;
+##
+ <h3>🛠️ My Skills</h3>
+
+### 👉 Lenguajes
+<p align="left"> 
+   &emsp;
+  <a href="#">
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-0175C2?style=for-the-badge&logo=php&logoColor=white"/>
+  </a>
+&emsp;
+<a href="#">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=JavaScript&logoColor=darkgreen"/>
+  </a>
+  &emsp;
+<a href="#">
+    <img alt="Python" src="https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=Python&logoColor=white"/>
+  </a>
+</p>
+
+### 👉 Frameworks
+<p align="left"> 
+  &emsp; 
+  <a href="#"> 
+     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white">
+   </a>
+  &emsp; 
+  <a href="#"> 
+     <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white">
+   </a>
+  &emsp; 
+  <a href="#"> 
+     <img alt="Codeigniter" src="https://img.shields.io/badge/codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white">
+   </a>
+  &emsp; 
+  <a href="#"> 
+     <img alt="Nestjs" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+   </a>
+  &emsp; 
+  <a href="#"> 
+     <img alt="Tailwind" src="https://img.shields.io/badge/tailwind-02569B?style=for-the-badge&logo=tailwind&logoColor=white">
+   </a>
+  &emsp; 
+  <a href="#"> 
+     <img alt="livewire" src="https://img.shields.io/badge/livewire-00C4FF?style=for-the-badge&logo=livewire&logoColor=white">
+   </a>
+  &emsp; 
+  
+</p>
+
+### 👉 Bases de datos
+
+<p align="left">
+  &emsp;
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-2b4f97?style=for-the-badge&logo=mysql&logoColor=white"></a>
+  &emsp;
+    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
+ </p>
+
+ ### 👉 Software & Tools
+ 
+<p>
+  &emsp;
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
+ &emsp;
+    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=Aws&logoColor=white"></a>
+  &emsp; 
+    <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></a>
+  &emsp;
+</p>
